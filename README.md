@@ -6,9 +6,9 @@
 **Creators:** John Hattas, Nathan Lang
 
 ## Git Tips
-- use `git clone https://gitlab.mscs.mu.edu/rthomas/stocks.git` to download repository
+- use `git clone https://github.com/jhattas/NCAA-Bracket-Predictor` to download repository
 
-- once you have made changes to files, use `git add <filename>` to add files to be committed, i.e. `git add executor.py MovingAverageModel.py`
+- once you have made changes to files, use `git add <filename>` to add files to be committed, i.e. `git add index.html README.md`
 
 - use `git commit -m "commit message blah blah"` to commit the files you have added, including an appropriate commit message explaining what you have done
 
