@@ -18,8 +18,4 @@
 
 - use `git reset --hard` to discard local changes so you can pull from github without conflicts
 
- 
-
- 
-
- 
+- use `git log --oneline` to show condensed commit history
