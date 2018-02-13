@@ -10,6 +10,8 @@
 
 - once you have made changes to files, use `git add <filename>` to add files to be committed, i.e. `git add index.html README.md`
 
+- use `git add -A` to add all changed files
+
 - use `git commit -m "commit message blah blah"` to commit the files you have added, including an appropriate commit message explaining what you have done
 
 - use `git push`to sync your commits with the remote version of the repository
