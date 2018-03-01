@@ -8,19 +8,19 @@
 ## Product Backlog
 
 ### back end
-[ ] multiple indicators with weights :on:
-[ ] learn basic machine learning
-[ ] integrate basic machine learning
-[ ] hit 80% correct :on:
+- [ ] multiple indicators with weights :on:
+- [ ] learn basic machine learning
+- [ ] integrate basic machine learning
+- [ ] hit 80% correct :on:
 
 ### front end
-[ ] learn django :on:
-[ ] learn html, css :on:
-[ ] create basic bracket in html :on:
-[ ] connect backend for frontend
+- [ ] learn django :on:
+- [ ] learn html, css :on:
+- [ ] create basic bracket in html :on:
+- [ ] connect backend for frontend
 
 ## data
-[ ] get 17/18 stats/tournament lineup :on:
+- [ ] get 17/18 stats/tournament lineup :on:
 
 ## Git Tips
 - use `git clone https://github.com/jhattas/NCAA-Bracket-Predictor` to download repository
