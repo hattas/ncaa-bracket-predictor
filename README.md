@@ -3,7 +3,7 @@
 
 **Project Title:** NCAA Bracket Predictor
 
-**Creators:** John Hattas, Nathan Lang
+**Creators:** John Hattas, Nathan Lang, Kevin Brosam, Alex Berkhout, Matt Petter
 
 ## Product Backlog
 
