@@ -19,7 +19,7 @@
 - [ ] create basic bracket in html :on:
 - [ ] connect backend for frontend
 
-## data
+### data
 - [ ] get 17/18 stats/tournament lineup :on:
 
 ## Git Tips
