@@ -9,9 +9,9 @@
 
 ### back end
 - [ ] multiple indicators with weights :on:
+- [ ] hit 80% correct for multiple years :on:
 - [ ] learn basic machine learning
 - [ ] integrate basic machine learning
-- [ ] hit 80% correct :on:
 
 ### front end
 - [ ] learn django :on:
