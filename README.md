@@ -22,6 +22,9 @@
 ### data
 - [ ] get 17/18 stats/tournament lineup :on:
 
+## Notes
+- outcome csv files order is Midwest, West, East, South
+
 ## Git Tips
 - use `git clone https://github.com/jhattas/NCAA-Bracket-Predictor` to download repository
 
