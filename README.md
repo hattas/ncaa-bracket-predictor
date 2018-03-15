@@ -21,6 +21,7 @@
 
 ### data
 - [ ] get 17/18 stats/tournament lineup :on:
+- [ ] get Kaggle's data for the tournament, switch project to use that data
 
 ## Notes
 - outcome csv files order is Midwest, West, East, South
