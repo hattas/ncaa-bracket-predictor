@@ -8,20 +8,23 @@
 ## Product Backlog
 
 ### back end
-- [ ] multiple indicators with weights :on:
+- [X] multiple indicators :on:
 - [ ] hit 80% correct for multiple years :on:
-- [ ] learn basic machine learning
+- [ ] learn basic machine learning :on:
 - [ ] integrate basic machine learning
+- [ ] make an SRS, SOS, RPI method :on:
+- [ ] optimize code :on:
+- [ ] run code for multiple years, trying to find a singular indicator for best bracket
 
 ### front end
-- [ ] learn django :on:
-- [ ] learn html, css :on:
-- [ ] create basic bracket in html :on:
+- [ ] learn django
+- [X] learn html, css
+- [ ] create basic bracket in html
 - [ ] connect backend for frontend
 
 ### data
-- [ ] get 17/18 stats/tournament lineup :on:
-- [ ] get Kaggle's data for the tournament, switch project to use that data
+- [X] get 17/18 stats/tournament lineup :on:
+- [X] get Kaggle's data for the tournament, switch project to use that data :on:
 
 ## Notes
 - outcome csv files order is Midwest, West, East, South
