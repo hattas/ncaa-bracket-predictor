@@ -9,8 +9,8 @@ from django.http import HttpRequest
 from django.template import RequestContext
 from datetime import datetime
 def home(request):
-    listResults = generateBracket.get_tourney_results(2014, ['OPF'])
-    listOrder = generateBracket.get_tourney_order(2014)
+    listResults = generateBracket.get_tourney_results(2015, ['OPF'])
+    listOrder = generateBracket.get_tourney_order(2015)
     """Renders the home page."""
     assert isinstance(request, HttpRequest)
     return render(
