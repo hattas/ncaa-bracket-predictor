@@ -5,43 +5,35 @@
 
 **Creators:** John Hattas, Nathan Lang, Kevin Brosam, Alex Berkhout, Matt Petter
 
-## Product Backlog
-
-### back end
-- [X] multiple indicators :on:
-- [ ] hit 80% correct for multiple years :on:
-- [ ] learn basic machine learning :on:
-- [ ] integrate basic machine learning
-- [ ] make an SRS, SOS, RPI method :on:
-- [ ] optimize code :on:
-- [ ] run code for multiple years, trying to find a singular indicator for best bracket
-
-### front end
-- [ ] learn django
-- [X] learn html, css
-- [ ] create basic bracket in html
-- [ ] connect backend for frontend
-
-### data
-- [X] get 17/18 stats/tournament lineup :on:
-- [X] get Kaggle's data for the tournament, switch project to use that data :on:
-
-## Notes
-- outcome csv files order is Midwest, West, East, South
-
-## Git Tips
-- use `git clone https://github.com/jhattas/NCAA-Bracket-Predictor` to download repository
-
-- once you have made changes to files, use `git add <filename>` to add files to be committed, i.e. `git add index.html README.md`
-
-- use `git add -A` to add all changed files
-
-- use `git commit -m "commit message blah blah"` to commit the files you have added, including an appropriate commit message explaining what you have done
-
-- use `git push`to sync your commits with the remote version of the repository
-
-- use `git pull` to sync your local repository with the current version of the remote
-
-- use `git reset --hard` to discard local changes so you can pull from github without conflicts
-
-- use `git log --oneline` to show condensed commit history
+G-Games
+W-Wins
+L-Losses
+FGM-Field Goals Made
+FGA-Field Goals Attempted
+FG%-Field Goal Percentage
+FGM3-Three Point Field Goals Made
+FGA3-Three Point Field Goals Attempted
+FG3%-Three Point Field Goal Percentage
+FTM-Free Throws Made
+FTA-Free Throws Attempted
+FT%-Free Throw Percentage
+OR-Offensive Rating
+DR-Defensive Rating
+Ast-Assists
+TO-Turnovers
+Stl-Steals
+Blk-Blocks
+PF-Points For
+OFGM-Opponent Field Goals Made
+OFGA-Opponent Field Goals Attempted
+OFGM3-Opponent Three Point Field Goals Made
+OFGA3-Opponent Three Point Field Goals Attempted
+OFTM-Opponent Free Throws Made
+OFTA-Opponent Free Throws Attempted
+OOR-Opponent Offensive Rating
+ODR-Opponent Defensive Rating
+OAst-Opponent Assists
+OTO-Opponent Turnovers
+OStl-Opponent Steals
+OBlk-Opponent Blocks
+OPF-Opponent Points For
