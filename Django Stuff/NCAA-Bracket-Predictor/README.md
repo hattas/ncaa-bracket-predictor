@@ -37,3 +37,8 @@ OTO-Opponent Turnovers
 OStl-Opponent Steals
 OBlk-Opponent Blocks
 OPF-Opponent Points For
+
+Running Django File -
+Navigate to DjangoStuff -> NCAABracketPredictor
+Open Git Bash Here
+Enter "python manage.py runserver"
