@@ -9,41 +9,20 @@
 **Creators:** John Hattas, Nathan Lang, Kevin Brosam, Alex Berkhout, Matt Petter
 
 
-## Sprint Backlog
-- [X] Create a bracket via Django that correctly displays games via code :on:
-
-- [ ] Have Django code work with multiple indicators :on:
-
-- [ ] Create graphs to display information :on:
-
-- [ ] statistical method for variable removal :on:
-
-- [ ] create SRS method :on:
-
-- [ ] have Django code run for multilpe years, able to select which :on:
-
-- [ ] shoot for 80% correct for multiple years :on:
-
-- [ ] machine learning approach for finding a perfect bracket :on:
-
-- [X] erreting :on:
-
-- [ ] have Django show % of bracket correct :on:
-
-- [ ] host website :on:
-
-
-## Product Backlog
-
-- [X] Combine Django and python code :on:
-
-- [X] have a selection of indicators that produce a bracket :on:
-
-- [ ] achieve a 100% perfect bracket
-
-
-### back end
-
+## Backlog
+Task | Priority(1-10)	| Story Points | Completed
+---- | ---- | ---- | ----
+make sure brackets display correctly in all situations | 5 | 3 | :x:
+make sure regions are correct for all years | 5 | 3 | :x:
+show % correct/points on website | 9 | 5 | :x:
+fix 2018 | 8 | 6 | :x:
+multiple indicators django | 8 | 5 | :x:
+graphs | 3 | 3 | :x:
+statistical method for variable removal | 6 | 3 | :x:
+integrate stat method on website | 6 | 5 | :x:
+SRS | 2 | 4 | :x:
+80% accuracy | 2 | 2 | :x:
+ML | 4 | 9 | :x:
 
 ## Notes
 
