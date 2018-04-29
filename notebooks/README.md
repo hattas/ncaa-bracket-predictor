@@ -8,6 +8,11 @@ These Jupyter notebooks contain backend testing/experimentation for future imple
 
 ### [csv_generator.ipynb](csv_generator.ipynb)
   * code for creating a master csv file from all the data we have
+  * [output csv](../csvs/kaggle/regular_season_stats.csv)
+  
+### [normalize.ipynb](normalize.ipynb)
+  * noramlize stats and invert opponent stats
+  * [output csv](../csvs/kaggle/normalized_stats.csv)
 
 ### [graphs.ipynb](Graphs.ipynb)
   * experimenting with different indicators to see how they interact/correlate
