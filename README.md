@@ -12,8 +12,8 @@
 ## Backlog
 Task | Priority(1-10)	| Story Points | Completed
 ---- | ---- | ---- | ----
-make sure brackets display correctly in all situations | 5 | 3 | :x:
-make sure regions are correct for all years | 5 | 3 | :x:
+make sure brackets display correctly in all situations | 5 | 3 | :white_check_mark:
+make sure regions are correct for all years | 5 | 3 | :white_check_mark:
 show % correct/points on website | 9 | 5 | :white_check_mark:
 weights | 8 | 4 | :white_check_mark:
 fix 2018 | 8 | 5 | :white_check_mark:
